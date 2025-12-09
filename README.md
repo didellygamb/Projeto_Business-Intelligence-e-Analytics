@@ -29,4 +29,5 @@ Esses resultados destacam a necessidade de planejamento antecipado, otimização
 
 
 📊 Dashboard
-<img width="1405" height="784" alt="image" src="https://github.com/user-attachments/assets/1e18a0e8-062c-4ab4-b750-2fbfaa1ffb5c" />
+<img width="1297" height="709" alt="image" src="https://github.com/user-attachments/assets/d42f2c59-4824-46b8-978b-9bc2f036e2f7" />
+
